@@ -70,3 +70,25 @@ Year 1: 1st Class Honours; Year 2: 1st Class Honours
 - Mentored a full class for Advanced Web Development, teaching them backend and JavaScript frameworks.
 
 ***
+
+## Some Of My Skills
+**Backend**: Go, Python, Node JS, Java,  MySQL, NoSQL, Firebase,  Networking, Docker (Swarm) | **Frontend**: TypeScript, JavaScript, React, Angular, React Native, HTML5, CSS3 | **Productivity**: Git, GitHub, Ansible, Linux, Figma
+
+***
+
+## Some of My Personal Projects
+### **Stonks** 
+https://github.com/ericm/stonks
+- Stonks is a terminal based stock visualizer and tracker that displays real time stocks in graph format in a terminal. Made in Go.
+
+### **Yup** 
+https://github.com/ericm/yup
+- Arch Linux AUR Helper with ncurses functionality and better searching and sorting. Made in Go.
+
+### Newlogic
+https://github.com/ericm/newlogic
+- A Circuit Builder / Logic Design Desktop Application (like mmlogic) made with Electron + React Typescript. It's currently compatible with Windows, Mac and Linux. Made with TypeScript/Electron.
+
+### Py The Way 
+https://github.com/py-the-way/py-the-way
+- This project is a recommendation system that recommends where a user should live in the US using big data, python and pandas. It was originally made for a  hackathon where it came first place.
