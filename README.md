@@ -7,7 +7,7 @@
 
 ## Experience
 
-### Google, Intern 
+### **Google**, Intern 
 *JUN 2020 – SEP 2020*
 - Part of the B2 Internal Edge Network Site Reliability Engineering team
 - Worked on an open source project called gNxI (https://github.com/google/gnxi), a set of services used to provision network devices using an open vendor neutral  specification :
@@ -22,20 +22,20 @@
 
 ***
 
-### University College Cork, Staff IT Service Desk
+### **University College Cork**, Staff IT Service Desk
 *JUN 2019 – PRESENT*
 - Help Staff Part Time with issues regarding their PCs and officially supported software
 - Log cases using our Triage system and explain in detail issues that need to be expedited
 
 ***
 
-### University College Cork, Lab Demonstrator
+### **University College Cork**, Lab Demonstrator
 *SEP 2019 - MAY - 2020*
 - Demonstrated for 3 modules: Introduction to Programming , Systems Organization 1 and Computer Systems 
 
 ***
 
-### Rock Bingo, General Staff
+### **Rock Bingo**, General Staff
 *APR 2019 - SEP 2019*
 - Called numbers on stage in linked pongo, collected customers tickets and provided change
 
