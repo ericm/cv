@@ -1,5 +1,5 @@
 # ERIC MOYNIHAN
-*Cork, Ireland | eric@moynihan.io | linkedin.com/in/eric-moynihan | github.com/ericm*
+*Cork, Ireland | eric@moynihan.io | http://linkedin.com/in/eric-moynihan | http://github.com/ericm*
 
 ## Education
 
