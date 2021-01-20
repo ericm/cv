@@ -31,7 +31,7 @@ jobs:
           sudo pip3 install -r requirements.txt
           sudo python3 setup.py install
           cd ..
-          python -m md2pdf -c github.css README.md
+          python3 -m md2pdf -c github.css README.md
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
