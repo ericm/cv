@@ -46,19 +46,23 @@ Year 1: 1st Class Honours; Year 2: 1st Class Honours
 
 ### **University College Cork**, Staff IT Service Desk
 *Jun 2019 – Present*
+
 - Help Staff Part Time with issues regarding their PCs and officially supported software
+
 - Log cases using our Triage system and explain in detail issues that need to be expedited
 
 ***
 
 ### **University College Cork**, Lab Demonstrator
 *Sep 2019 - May - 2020*
+
 - Demonstrated for 3 modules: Introduction to Programming , Systems Organization 1 and Computer Systems 
 
 ***
 
 ### **Rock Bingo**, General Staff
 *APR 2019 - SEP 2019*
+
 - Called numbers on stage in linked pongo, collected customers tickets and provided change
 
 ***
@@ -89,16 +93,20 @@ Year 1: 1st Class Honours; Year 2: 1st Class Honours
 ## Some of My Personal Projects
 ### **Stonks** 
 https://github.com/ericm/stonks
+
 - Stonks is a terminal based stock visualizer and tracker that displays real time stocks in graph format in a terminal. Made in Go.
 
 ### **Yup** 
 https://github.com/ericm/yup
+
 - Arch Linux AUR Helper with ncurses functionality and better searching and sorting. Made in Go.
 
 ### Newlogic
 https://github.com/ericm/newlogic
+
 - A Circuit Builder / Logic Design Desktop Application (like mmlogic) made with Electron + React Typescript. It's currently compatible with Windows, Mac and Linux. Made with TypeScript/Electron.
 
 ### Py The Way 
 https://github.com/py-the-way/py-the-way
+
 - This project is a recommendation system that recommends where a user should live in the US using big data, python and pandas. It was originally made for a  hackathon where it came first place.
