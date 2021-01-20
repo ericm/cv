@@ -1,5 +1,4 @@
+setuptools
 markdown2
 click
 wkhtmltopdf
-setuptools
-
