@@ -27,10 +27,12 @@ jobs:
         
       - run: |
           cd md2pdf
-          sudo apt-get install -y python3-setuptools wkhtmltopdf
+          sudo apt-get install -y python3-setuptools
           sudo pip3 install -r requirements.txt
           sudo python3 setup.py install
           cd ..
+          wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.focal_amd64.deb /tmp
+          sudo dpkg -i /tmp/wkhtmltox_0.12.6-1.focal_amd64.deb
           python3 -m md2pdf -c github.css README.md
 
       - name: Commit changes
