@@ -27,7 +27,7 @@ jobs:
         
       - run: |
           cd md2pdf
-          sudo apt-get install -y python3-setuptools
+          sudo apt-get install -y python3-setuptools xfonts-75dpi xfonts-base
           sudo pip3 install -r requirements.txt
           sudo python3 setup.py install
           cd ..
