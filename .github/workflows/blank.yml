@@ -25,9 +25,12 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
         
-      - uses: docker://pandoc/latex:2.9
-        with:
-          args: --output=cv.pdf README.md
+      - run: |
+          cd md2pdf
+          sudo pip install -r requirements.txt
+          sudo python setup.py install
+          cd ..
+          python -m md2pdf -c github.css README.md
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
