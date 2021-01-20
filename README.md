@@ -21,15 +21,25 @@ Year 1: 1st Class Honours; Year 2: 1st Class Honours
 
 ### **Google**, Intern 
 *Jun 2020 – Sep 2020*
+
 - Part of the B2 Internal Edge Network Site Reliability Engineering team
+
 - Worked on an open source project called gNxI (https://github.com/google/gnxi), a set of services used to provision network devices using an open vendor neutral  specification :
+
   - Managed project workflow with co-intern by splitting up tasks between us using GitHub Issues
+  
   - Stayed consistently ahead of schedule, allowing for stretch goals such as an Angular Web UI
+  
   - Extended the mock target to implement the gNOI Factory Reset gNOI service
+  
   - Created a client that implements the gNOI OS Service
+  
   - Created an orchestrator to execute and validate tests on a gNOI and gNMI target with my co-intern
+  
   - Increased test coverage in the repository by over 15%
+  
   - Refactored the certificate management library to be more customisable and readable
+  
   - Made >45 Pull Requests to the repository
 
 ***
